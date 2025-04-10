@@ -1,0 +1,6 @@
+Please add the following images to this directory:
+1. hero-bg.jpg - A high-quality image of a cozy cafe interior
+2. about-img.jpg - An image showing baristas at work or cafe ambiance
+3. menu-item-*.jpg - Images for menu items
+
+You can source these images from free stock photo websites like Unsplash or Pexels. 
